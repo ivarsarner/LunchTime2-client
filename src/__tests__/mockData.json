@@ -1,0 +1,849 @@
+{
+  "businesses": [
+    {
+      "id": "X3M3DV9UN5oXm_1tOC1lzA",
+      "alias": "marquise-stockholm",
+      "name": "Marquise",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Qzz_1lE5hxtg_Gzd7CCutg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/marquise-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 10,
+      "categories": [
+        {
+          "alias": "bistros",
+          "title": "Bistros"
+        },
+        {
+          "alias": "danceclubs",
+          "title": "Dance Clubs"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 59.3339712,
+        "longitude": 18.0643746
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "Sveavägen 9",
+        "address2": "",
+        "address3": "",
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sveavägen 9",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+46850678300",
+      "display_phone": "+46 8 506 783 00",
+      "distance": 12.666605258301868
+    },
+    {
+      "id": "a7NeVK8Vg1YlRLUXARJ9Ew",
+      "alias": "kimchistan-stockholm",
+      "name": "KimChiStan",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ej-8ALFtplhYpPxkRmiUvg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kimchistan-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "korean",
+          "title": "Korean"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 59.3342903963907,
+        "longitude": 18.0636404062006
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Sergels Torg 12",
+        "address2": "",
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "",
+        "country": "SE",
+        "state": null,
+        "display_address": [
+          "Sergels Torg 12",
+          "Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+46766333552",
+      "display_phone": "+46 76 633 35 52",
+      "distance": 43.9966942185191
+    },
+    {
+      "id": "QGaf4XxdfoPh2D6Sml8fZw",
+      "alias": "teaterbaren-stockholm",
+      "name": "Teaterbaren",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3cfmjoslldCzvXJeWKhW2g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/teaterbaren-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "scandinavian",
+          "title": "Scandinavian"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 59.3320198,
+        "longitude": 18.0641708
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Sergels Torg",
+        "address2": null,
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "103 21",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sergels Torg",
+          "103  21 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+468145606",
+      "display_phone": "+46 8 14 56 06",
+      "distance": 54.978465005650584
+    },
+    {
+      "id": "ZxFTKC9V-a6rMeh69wFofw",
+      "alias": "mcdonalds-stockholm-13",
+      "name": "McDonalds",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9cBXyIWiOwWl2B334UjHDg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mcdonalds-stockholm-13?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 1,
+      "coordinates": {
+        "latitude": 59.3331795,
+        "longitude": 18.0640793
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Sergelgatan 4",
+        "address2": "",
+        "address3": "",
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sergelgatan 4",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 55.710569177874795
+    },
+    {
+      "id": "TfvZCqJ0UBERZgo8Ij_PTQ",
+      "alias": "victoria-stockholm-2",
+      "name": "Victoria",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zhjN0v0hREUgglhkDnYgEg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/victoria-stockholm-2?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 12,
+      "categories": [
+        {
+          "alias": "danceclubs",
+          "title": "Dance Clubs"
+        },
+        {
+          "alias": "traditional_swedish",
+          "title": "Traditional Swedish"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 59.3312988,
+        "longitude": 18.0725307
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "Kungsträdgården",
+        "address2": null,
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 47",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Kungsträdgården",
+          "111  47 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+468101085",
+      "display_phone": "+46 8 10 10 85",
+      "distance": 60.13561552858871
+    },
+    {
+      "id": "vkXRNcuLN5x7vqBRcdnk3w",
+      "alias": "p2-wok-sushi-stockholm",
+      "name": "P2 Wok Sushi",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/p2-wok-sushi-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "restaurants",
+          "title": "Restaurants"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 59.3336269915149,
+        "longitude": 18.0649334563589
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Kungsträdgarden",
+        "address2": null,
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 47",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Kungsträdgarden",
+          "111  47 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+4686116342",
+      "display_phone": "+46 8 611 63 42",
+      "distance": 60.13561552858871
+    },
+    {
+      "id": "g3HUiBZ-IY7FGJY4XS-E2A",
+      "alias": "reload-superfood-bar-stockholm-3",
+      "name": "Reload Superfood Bar",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jmxX0S5vMhOe39ftIrhStg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/reload-superfood-bar-stockholm-3?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "salad",
+          "title": "Salad"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 59.3340291442697,
+        "longitude": 18.0630894987576
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Sergelgatan 24",
+        "address2": "",
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sergelgatan 24",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 60.61053470536251
+    },
+    {
+      "id": "YBXZmpXdd3jNYaPTBEgdHA",
+      "alias": "tabbouli-street-stockholm",
+      "name": "Tabbouli Street",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mfMWf1J9rL0taw-NJ8QlaA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tabbouli-street-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "lebanese",
+          "title": "Lebanese"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 59.33405,
+        "longitude": 18.06308
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Sergelgatan 25",
+        "address2": "",
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sergelgatan 25",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+4684113131",
+      "display_phone": "+46 8 411 31 31",
+      "distance": 61.19226374867041
+    },
+    {
+      "id": "_bPNqeaeZvRz_jGbwNIrSA",
+      "alias": "pizza-hutftu-stockholm",
+      "name": "Pizza Hutftu ",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t9B32CUUvvK_6qcuCmlL4w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pizza-hutftu-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 16,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 59.3339005,
+        "longitude": 18.0629101
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "Slöjdgatan 10",
+        "address2": null,
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Slöjdgatan 10",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+46771749924",
+      "display_phone": "+46 77 174 99 24",
+      "distance": 71.5029079583073
+    },
+    {
+      "id": "Uhsf4-iKoyt7wzgZkWSSmw",
+      "alias": "taco-bar-stockholm-3",
+      "name": "Taco Bar",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RWBbDyPapTKEL0Ff9HipLw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/taco-bar-stockholm-3?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 22,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 59.3333206,
+        "longitude": 18.0635796
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Mäster Samuelsgatan 44",
+        "address2": null,
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Mäster Samuelsgatan 44",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+4684111625",
+      "display_phone": "+46 8 411 16 25",
+      "distance": 74.2743081607618
+    },
+    {
+      "id": "Q0LkqOQqaXeAWSP9r8mbUg",
+      "alias": "wrap-world-stockholm-2",
+      "name": "Wrap World",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MDfmRtAl9uQrr6xr7N-Wxg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/wrap-world-stockholm-2?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "salad",
+          "title": "Salad"
+        },
+        {
+          "alias": "wraps",
+          "title": "Wraps"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 59.3347702,
+        "longitude": 18.0646896
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Sveavägen 20",
+        "address2": null,
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sveavägen 20",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+46737286910",
+      "display_phone": "+46 73 728 69 10",
+      "distance": 78.41616172195342
+    },
+    {
+      "id": "jV2nSoY-srKg-UCELFp2iQ",
+      "alias": "hötorgsterrassen-stockholm",
+      "name": "Hötorgsterrassen",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8r4-bt77w0tdP8SfW1VSpw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/h%C3%B6torgsterrassen-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "food_court",
+          "title": "Food Court"
+        },
+        {
+          "alias": "foodtrucks",
+          "title": "Food Trucks"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 59.3344383,
+        "longitude": 18.0636806
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Sveavägen 17",
+        "address2": "",
+        "address3": "",
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sveavägen 17",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 78.95625247630963
+    },
+    {
+      "id": "2faArGXpq5t7f339hWuF8w",
+      "alias": "taku-taku-stockholm-2",
+      "name": "Taku Taku",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zmfajZqbSeEJ4rCqJDrbaw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/taku-taku-stockholm-2?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        },
+        {
+          "alias": "vegan",
+          "title": "Vegan"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 59.33425,
+        "longitude": 18.06302
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Sergelgatan 29",
+        "address2": "",
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sergelgatan 29",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+46762078982",
+      "display_phone": "+46 76 207 89 82",
+      "distance": 80.20049992342314
+    },
+    {
+      "id": "5fTt-QRPNUzaBcWxJ_XT-Q",
+      "alias": "la-gazelle-stockholm",
+      "name": "La Gazelle",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1Mh7N8jA-2Mrb9twOFES7g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/la-gazelle-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "delicatessen",
+          "title": "Delicatessen"
+        },
+        {
+          "alias": "halal",
+          "title": "Halal"
+        },
+        {
+          "alias": "meats",
+          "title": "Meat Shops"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 59.33444,
+        "longitude": 18.06408
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Hötorgshallen 20",
+        "address2": null,
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Hötorgshallen 20",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+468212455",
+      "display_phone": "+46 8 21 24 55",
+      "distance": 80.4649032577732
+    },
+    {
+      "id": "aJTTqxTdwuBR8NnQtwrCPA",
+      "alias": "bacio-stockholm-2",
+      "name": "Bacio",
+      "image_url": "",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bacio-stockholm-2?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "restaurants",
+          "title": "Restaurants"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 59.33444,
+        "longitude": 18.06408
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Hötorgshallen",
+        "address2": "",
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Hötorgshallen",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 80.4649032577732
+    },
+    {
+      "id": "_z9tJGhp6GSCSlGLMHZfKg",
+      "alias": "espresso-house-stockholm-18",
+      "name": "Espresso House",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/slbtX3LNErCOQl1cRG8aXg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/espresso-house-stockholm-18?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 59.3330498,
+        "longitude": 18.0646095
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "Sergels Torg 12",
+        "address2": null,
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sergels Torg 12",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+468217200",
+      "display_phone": "+46 8 21 72 00",
+      "distance": 88.63781575007867
+    },
+    {
+      "id": "8SYxVc33onUbZVVRuazZzQ",
+      "alias": "noodle-mama-stockholm-3",
+      "name": "Noodle Mama",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/W5o92-Rj2wqOaAyD7qQuuA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/noodle-mama-stockholm-3?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 59.3345097175729,
+        "longitude": 18.0629377408891
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Sergelgatan 33",
+        "address2": "",
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Sergelgatan 33",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 89.73605710675086
+    },
+    {
+      "id": "ey3Wi0VNnsbd3vFal3VCqw",
+      "alias": "sushi-bar-ginza-stockholm",
+      "name": "Sushi Bar Ginza",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gGMRrK_vRuKoSQVTnE85qQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sushi-bar-ginza-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 59.3345108,
+        "longitude": 18.0653896
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Malmskillnadsgatan 29",
+        "address2": null,
+        "address3": null,
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Malmskillnadsgatan 29",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+468211970",
+      "display_phone": "+46 8 21 19 70",
+      "distance": 97.36493896568777
+    },
+    {
+      "id": "QGPJRCXf92lqIMlvAGg4oQ",
+      "alias": "frankes-matbar-stockholm",
+      "name": "Frankes matbar",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L7kKgybPuLmFBFHHtloIQA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/frankes-matbar-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "swedish",
+          "title": "Swedish"
+        },
+        {
+          "alias": "traditional_swedish",
+          "title": "Traditional Swedish"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 59.3346222,
+        "longitude": 18.0653537
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Malmskillnadsgatan 29",
+        "address2": "",
+        "address3": "",
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Malmskillnadsgatan 29",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+468209555",
+      "display_phone": "+46 8 20 95 55",
+      "distance": 97.36493896568777
+    },
+    {
+      "id": "KaMuyUuBswQUITnJ3qh1lg",
+      "alias": "mozzarella-bar-stockholm",
+      "name": "Mozzarella Bar",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ohh6exMF05sdPi_raMIGOQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mozzarella-bar-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 3,
+      "coordinates": {
+        "latitude": 59.3335991,
+        "longitude": 18.0657654
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Mäster Samuelsgatan 39",
+        "address2": "",
+        "address3": "",
+        "city": "Stockholm",
+        "zip_code": "111 57",
+        "country": "SE",
+        "state": "AB",
+        "display_address": [
+          "Mäster Samuelsgatan 39",
+          "111  57 Stockholm",
+          "Sweden"
+        ]
+      },
+      "phone": "+468246323",
+      "display_phone": "+46 8 24 63 23",
+      "distance": 98.0167778111501
+    }
+  ],
+  "total": 2300,
+  "region": {
+    "center": {
+      "longitude": 18.0641561,
+      "latitude": 59.3339948
+    }
+  }
+}
