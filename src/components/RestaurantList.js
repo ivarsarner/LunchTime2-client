@@ -21,8 +21,9 @@ const RestaurantList = () => {
 				coords: { latitude, longitude },
 			} = await getLocation();
 
+			const url = 'https://hidden-ocean-76033.herokuapp.com';
 			const { data: restaurants } = await axios.get(
-				`/restaurants/${latitude}/${longitude}/${category}`
+				`${url}/restaurants/${latitude}/${longitude}/${category}`
 			);
 			dispatch({
 				type: 'GET_RESTAURANTS_SUCCESS',
