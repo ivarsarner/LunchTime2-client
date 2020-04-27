@@ -55,7 +55,9 @@ const RestaurantList = () => {
 	return (
 		<>
 			{state.status === 'loading' ? (
-				<p data-testid="loading">Getting restaurants in your area...</p>
+				<p data-testid="loading" className="loading">
+					Getting restaurants in your area...
+				</p>
 			) : (
 				<>
 					{state.error ? (
