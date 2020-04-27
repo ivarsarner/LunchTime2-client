@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from '../assets/logo_2.jpg';
+import '../styles/Restaurant.css';
 
 const Restaurant = (props) => {
 	const {

@@ -3,6 +3,7 @@ import { restaurantReducer } from '../reducers/restaurantReducer';
 import Restaurant from './Restaurant';
 import { getLocation } from '../util/getLocation';
 import axios from 'axios';
+import '../styles/RestaurantList.css';
 
 const initialState = {
 	status: 'loading',
@@ -60,21 +61,22 @@ const RestaurantList = () => {
 					{state.error ? (
 						<p data-testid="error">state.error</p>
 					) : (
-						<div data-testid="success">
+						<div data-testid="success" className="restaurants-container">
 							<header>
 								<h3>Restaurants close to you:</h3>
 							</header>
-							<section className="restaurants-list__category-buttons"></section>
 							<section className="restaurants-list">
-								<button value="pizza" onClick={handleClick}>
-									Pizza
-								</button>
-								<button value="sushi" onClick={handleClick}>
-									Sushi
-								</button>
-								<button value="scandinavian" onClick={handleClick}>
-									Scandinavian
-								</button>
+								<section className="restaurants-list__category-buttons">
+									<button value="pizza" onClick={handleClick}>
+										Pizza
+									</button>
+									<button value="sushi" onClick={handleClick}>
+										Sushi
+									</button>
+									<button value="scandinavian" onClick={handleClick}>
+										Scandinavian
+									</button>
+								</section>
 								{state.restaurants.map((restaurant) => (
 									<div
 										data-testid={restaurant.name}
