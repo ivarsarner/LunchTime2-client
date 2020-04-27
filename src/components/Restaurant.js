@@ -7,6 +7,7 @@ const Restaurant = (props) => {
 		image_url,
 		name,
 		rating,
+		url,
 		categories,
 		coordinates: { latitude, longitude },
 	} = props.restaurant;
@@ -24,6 +25,9 @@ const Restaurant = (props) => {
 				<div className="restaurants-list__card__name">
 					<h3>{name}</h3>
 				</div>
+				<span>
+					<a href={url}>Open on Yelp</a>
+				</span>
 				<div className="restaurants-list__card__categories">
 					<span className="restaurants-list__card__category">Category:</span>{' '}
 					<br></br>
