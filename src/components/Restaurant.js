@@ -29,8 +29,9 @@ const Restaurant = (props) => {
 					<a href={url}>Open on Yelp</a>
 				</span>
 				<div className="restaurants-list__card__categories">
-					<span className="restaurants-list__card__category">Category:</span>{' '}
-					<br></br>
+					<span className="restaurants-list__card__category">
+						<h5>Category:</h5>
+					</span>{' '}
 					{categories.map((category, index) => (
 						<span key={index}>{category.title} </span>
 					))}
