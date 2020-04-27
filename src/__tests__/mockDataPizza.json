@@ -1,0 +1,857 @@
+{
+	"businesses": [
+			{
+					"id": "_bPNqeaeZvRz_jGbwNIrSA",
+					"alias": "pizza-hutftu-stockholm",
+					"name": "Pizza Hutftu ",
+					"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t9B32CUUvvK_6qcuCmlL4w/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/pizza-hutftu-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 16,
+					"categories": [
+							{
+									"alias": "italian",
+									"title": "Italian"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 2.5,
+					"coordinates": {
+							"latitude": 59.3339005,
+							"longitude": 18.0629101
+					},
+					"transactions": [],
+					"price": "$$",
+					"location": {
+							"address1": "Slöjdgatan 10",
+							"address2": null,
+							"address3": null,
+							"city": "Stockholm",
+							"zip_code": "111 57",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Slöjdgatan 10",
+									"111  57 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+46771749924",
+					"display_phone": "+46 77 174 99 24",
+					"distance": 71.5029079583073
+			},
+			{
+					"id": "wfP5nr0-CxxyoQeAWNbbrA",
+					"alias": "hisar-fastfood-stockholm",
+					"name": "Hisar Fastfood",
+					"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iMaRn6EKjXTOOiBAE8aoJQ/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/hisar-fastfood-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 2,
+					"categories": [
+							{
+									"alias": "burgers",
+									"title": "Burgers"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 3.0,
+					"coordinates": {
+							"latitude": 59.3344383,
+							"longitude": 18.0640793
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "Hötorgshallen 27",
+							"address2": null,
+							"address3": null,
+							"city": "Stockholm",
+							"zip_code": "111 57",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Hötorgshallen 27",
+									"111  57 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+468218522",
+					"display_phone": "+46 8 21 85 22",
+					"distance": 98.97526360237839
+			},
+			{
+					"id": "ARXgHksCwCTPRo-44jIDcg",
+					"alias": "flames-stockholm",
+					"name": "Flames",
+					"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/s9lsojL01ec-NDpVn8_aOw/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/flames-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 38,
+					"categories": [
+							{
+									"alias": "salad",
+									"title": "Salad"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							},
+							{
+									"alias": "italian",
+									"title": "Italian"
+							}
+					],
+					"rating": 4.5,
+					"coordinates": {
+							"latitude": 59.3362617,
+							"longitude": 18.0631695
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "Sveavägen 34",
+							"address2": null,
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 34",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Sveavägen 34",
+									"111  34 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+46843755888",
+					"display_phone": "+46 8 437 558 88",
+					"distance": 267.081422231237
+			},
+			{
+					"id": "mECcTcI6QdXGYO4yZKzC_Q",
+					"alias": "pizza-hut-stockholm-3",
+					"name": "Pizza Hut",
+					"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-cyTp-Fk9D-aAKLh9nKobw/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/pizza-hut-stockholm-3?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 6,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 3.5,
+					"coordinates": {
+							"latitude": 59.3318291,
+							"longitude": 18.0601807
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "Klarabergsgatan 56",
+							"address2": null,
+							"address3": null,
+							"city": "Stockholm",
+							"zip_code": "111 21",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Klarabergsgatan 56",
+									"111  21 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+468208340",
+					"display_phone": "+46 8 20 83 40",
+					"distance": 316.8514370050698
+			},
+			{
+					"id": "34IRQU4W12yMpBeLUrxz1w",
+					"alias": "1889-fast-fine-pizza-stockholm",
+					"name": "1889 Fast Fine Pizza",
+					"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dqNDDDhDfUfwe7DxmUBbSQ/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/1889-fast-fine-pizza-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 13,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 4.0,
+					"coordinates": {
+							"latitude": 59.3342647,
+							"longitude": 18.070092
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "Mäster Samuelsgatan 18",
+							"address2": null,
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 44",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Mäster Samuelsgatan 18",
+									"111  44 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+468811889",
+					"display_phone": "+46 8 81 18 89",
+					"distance": 337.9763582345577
+			},
+			{
+					"id": "bUKenmcCogqrYcCf3RBGLw",
+					"alias": "giro-stockholm",
+					"name": "Giro",
+					"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UYGBGFsyVpk2xD0dkv3Jyg/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/giro-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 43,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 4.0,
+					"coordinates": {
+							"latitude": 59.3372917,
+							"longitude": 18.062109
+					},
+					"transactions": [],
+					"price": "$$",
+					"location": {
+							"address1": "Sveavägen 46",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 34",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Sveavägen 46",
+									"111  34 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+4684406767",
+					"display_phone": "+46 8 440 67 67",
+					"distance": 367.10830157855315
+			},
+			{
+					"id": "xMNTty_vg3kHPPDYnTWC-w",
+					"alias": "pizzeria-maestro-stockholm",
+					"name": "Pizzeria Maestro",
+					"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/itdXX4lq8Tpj840uTRWxwg/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/pizzeria-maestro-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 13,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 2.5,
+					"coordinates": {
+							"latitude": 59.3341789,
+							"longitude": 18.0577602
+					},
+					"transactions": [],
+					"price": "$$",
+					"location": {
+							"address1": "Kungsgatan 64",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 22",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Kungsgatan 64",
+									"111  22 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+468200538",
+					"display_phone": "+46 8 20 05 38",
+					"distance": 367.50450102129963
+			},
+			{
+					"id": "ZZqyG7NZLXJNykTNuHji1Q",
+					"alias": "café-milano-stockholm-4",
+					"name": "Café Milano",
+					"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YHL0w_Wp5SRLymPIp-ZYmw/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/caf%C3%A9-milano-stockholm-4?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 6,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							},
+							{
+									"alias": "italian",
+									"title": "Italian"
+							},
+							{
+									"alias": "breakfast_brunch",
+									"title": "Breakfast & Brunch"
+							}
+					],
+					"rating": 3.5,
+					"coordinates": {
+							"latitude": 59.3324625701236,
+							"longitude": 18.0720866826399
+					},
+					"transactions": [],
+					"price": "$$",
+					"location": {
+							"address1": "Kungsträdgårdsgatan 18",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 47",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Kungsträdgårdsgatan 18",
+									"111  47 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+4686782827",
+					"display_phone": "+46 8 678 28 27",
+					"distance": 480.9651181091917
+			},
+			{
+					"id": "NBf4bk-n8C0kQnmWilF8kg",
+					"alias": "asso-di-quadri-stockholm",
+					"name": "Asso di Quadri",
+					"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MHWhVt7pDGVT-dZDhng1sw/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/asso-di-quadri-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 1,
+					"categories": [
+							{
+									"alias": "bars",
+									"title": "Bars"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							},
+							{
+									"alias": "italian",
+									"title": "Italian"
+							}
+					],
+					"rating": 2.0,
+					"coordinates": {
+							"latitude": 59.3304469414102,
+							"longitude": 18.0576157072859
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "Klarabergsviadukten 47",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 64",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Klarabergsviadukten 47",
+									"111  64 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+46736881774",
+					"display_phone": "+46 73 688 17 74",
+					"distance": 541.5097521299168
+			},
+			{
+					"id": "o-YzxoXoND3EgNwN3h_3qg",
+					"alias": "ristorante-60-stockholm",
+					"name": "Ristorante 60",
+					"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GwFs8IIWK7PWKq66UIycVw/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/ristorante-60-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 2,
+					"categories": [
+							{
+									"alias": "italian",
+									"title": "Italian"
+							},
+							{
+									"alias": "bars",
+									"title": "Bars"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 2.0,
+					"coordinates": {
+							"latitude": 59.3385667589145,
+							"longitude": 18.0608587558175
+					},
+					"transactions": [],
+					"price": "$$",
+					"location": {
+							"address1": "Sveavägen 60",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 34",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Sveavägen 60",
+									"111  34 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+468315231",
+					"display_phone": "+46 8 31 52 31",
+					"distance": 541.676460756879
+			},
+			{
+					"id": "U9KYWfKYM26y8y42dCZI4Q",
+					"alias": "pizza-popolo-stockholm",
+					"name": "Pizza Popolo",
+					"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hgy9ympES86lGA169Upu3A/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/pizza-popolo-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 1,
+					"categories": [
+							{
+									"alias": "foodtrucks",
+									"title": "Food Trucks"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 4.0,
+					"coordinates": {
+							"latitude": null,
+							"longitude": null
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+46707427778",
+					"display_phone": "+46 70 742 77 78",
+					"distance": 576.870946913377
+			},
+			{
+					"id": "wLK3JTMRGdsbdYCsMjdzvw",
+					"alias": "stockholm-kebabhouse-3-stockholm",
+					"name": "Kebab House",
+					"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3SCk6TjvsPWkUSWAC0FJdA/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/stockholm-kebabhouse-3-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 3,
+					"categories": [
+							{
+									"alias": "kebab",
+									"title": "Kebab"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 1.5,
+					"coordinates": {
+							"latitude": 59.3387604,
+							"longitude": 18.0601292
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "Sveavägen 41",
+							"address2": null,
+							"address3": null,
+							"city": "Stockholm",
+							"zip_code": "111 34",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Sveavägen 41",
+									"111  34 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+468218620",
+					"display_phone": "+46 8 21 86 20",
+					"distance": 580.8711030965039
+			},
+			{
+					"id": "FVwc3CqB6kdTgYg3e47ogw",
+					"alias": "da-peppe-due-stockholm",
+					"name": "Da Peppe Due",
+					"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q5BGji6C6ueIGPkMRZynZQ/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/da-peppe-due-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 7,
+					"categories": [
+							{
+									"alias": "food",
+									"title": "Food"
+							},
+							{
+									"alias": "italian",
+									"title": "Italian"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 3.0,
+					"coordinates": {
+							"latitude": 59.3365111241872,
+							"longitude": 18.0547651825663
+					},
+					"transactions": [],
+					"price": "$$",
+					"location": {
+							"address1": "Upplanssgatan 6",
+							"address2": "Stockholm",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 23",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Upplanssgatan 6",
+									"Stockholm",
+									"111  23 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+4684118180",
+					"display_phone": "+46 8 411 81 80",
+					"distance": 601.5954442656587
+			},
+			{
+					"id": "02UYAqVsdCOkb0cKCnfAdA",
+					"alias": "tre-kronor-stockholm",
+					"name": "Tre Kronor",
+					"image_url": "",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/tre-kronor-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 2,
+					"categories": [
+							{
+									"alias": "kebab",
+									"title": "Kebab"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 4.0,
+					"coordinates": {
+							"latitude": 59.3398179918122,
+							"longitude": 18.0627324432135
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "Döbelnsgatan 9",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 40",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Döbelnsgatan 9",
+									"111  40 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "",
+					"display_phone": "",
+					"distance": 652.5222423073471
+			},
+			{
+					"id": "cZoCYEDd8907wDfdaAXTZQ",
+					"alias": "pizzerian-stockholm",
+					"name": "Pizzerian",
+					"image_url": "",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/pizzerian-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 2,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 4.5,
+					"coordinates": {
+							"latitude": 59.337159152878,
+							"longitude": 18.0538108253259
+					},
+					"transactions": [],
+					"location": {
+							"address1": "Upplandsagatan 9",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 23",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Upplandsagatan 9",
+									"111  23 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "",
+					"display_phone": "",
+					"distance": 684.1076979615025
+			},
+			{
+					"id": "IIHswkjH4x9LY0xc7F5s3Q",
+					"alias": "pizza-hatt-stockholm",
+					"name": "Pizza Hatt",
+					"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-bYWFRDAsQN4tSCh-OJzTQ/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/pizza-hatt-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 44,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 4.0,
+					"coordinates": {
+							"latitude": 59.3370399,
+							"longitude": 18.053894
+					},
+					"transactions": [],
+					"price": "$$",
+					"location": {
+							"address1": "Upplandsgatan 9",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "111 23",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Upplandsgatan 9",
+									"111  23 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "",
+					"display_phone": "",
+					"distance": 692.8807621775671
+			},
+			{
+					"id": "UIZ_HBclZ3PjNw5VdwDkJA",
+					"alias": "la-madrina-stockholm",
+					"name": "La Madrina",
+					"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gYWFRF9x5l29My3yrnaPAg/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/la-madrina-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 2,
+					"categories": [
+							{
+									"alias": "italian",
+									"title": "Italian"
+							},
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 2.0,
+					"coordinates": {
+							"latitude": 59.34005,
+							"longitude": 18.06732
+					},
+					"transactions": [],
+					"location": {
+							"address1": "Birger Jarlsgatan 44",
+							"address2": "",
+							"address3": null,
+							"city": "Stockholm",
+							"zip_code": "114 29",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Birger Jarlsgatan 44",
+									"114  29 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+4686117710",
+					"display_phone": "+46 8 611 77 10",
+					"distance": 697.232379212918
+			},
+			{
+					"id": "eq53k22HkGAPPSo4PCWnfw",
+					"alias": "buona-sera-stockholm",
+					"name": "Buona Sera",
+					"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ylhx0RAcCDjTvCVieQ804Q/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/buona-sera-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 9,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 4.0,
+					"coordinates": {
+							"latitude": 59.3415825527722,
+							"longitude": 18.0587319284678
+					},
+					"transactions": [],
+					"price": "$$",
+					"location": {
+							"address1": "Kugstensgatan 35",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "113 57",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Kugstensgatan 35",
+									"113  57 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+4686734140",
+					"display_phone": "+46 8 673 41 40",
+					"distance": 898.0371442040553
+			},
+			{
+					"id": "q95Mju2FozccP9Hyb9yneQ",
+					"alias": "jarla-pizzeria-stockholm",
+					"name": "Jarla Pizzeria",
+					"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SiZtQsekQdH3K7w0BIE3aA/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/jarla-pizzeria-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 3,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							}
+					],
+					"rating": 3.5,
+					"coordinates": {
+							"latitude": 59.34248,
+							"longitude": 18.06552
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "Rådmansg. 25",
+							"address2": null,
+							"address3": null,
+							"city": "Stockholm",
+							"zip_code": "114 25",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Rådmansg. 25",
+									"114  25 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+468104430",
+					"display_phone": "+46 8 10 44 30",
+					"distance": 947.6815371695515
+			},
+			{
+					"id": "sWXYkM2iVERRfsLVJnF2pg",
+					"alias": "döbelns-pasta-stockholm",
+					"name": "Döbelns Pasta",
+					"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F4KXiErMPkVdPY_I_Li3Og/o.jpg",
+					"is_closed": false,
+					"url": "https://www.yelp.com/biz/d%C3%B6belns-pasta-stockholm?adjust_creative=AYPk1QlQLaLIWZ_GVfhHbw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=AYPk1QlQLaLIWZ_GVfhHbw",
+					"review_count": 5,
+					"categories": [
+							{
+									"alias": "pizza",
+									"title": "Pizza"
+							},
+							{
+									"alias": "italian",
+									"title": "Italian"
+							}
+					],
+					"rating": 3.0,
+					"coordinates": {
+							"latitude": 59.3424683,
+							"longitude": 18.0602303
+					},
+					"transactions": [],
+					"price": "$",
+					"location": {
+							"address1": "Döbelnsgatan 34D",
+							"address2": "",
+							"address3": "",
+							"city": "Stockholm",
+							"zip_code": "113 52",
+							"country": "SE",
+							"state": "AB",
+							"display_address": [
+									"Döbelnsgatan 34D",
+									"113  52 Stockholm",
+									"Sweden"
+							]
+					},
+					"phone": "+4686734295",
+					"display_phone": "+46 8 673 42 95",
+					"distance": 969.6763885882569
+			}
+	],
+	"total": 120,
+	"region": {
+			"center": {
+					"longitude": 18.0641561,
+					"latitude": 59.3339948
+			}
+	}
+}

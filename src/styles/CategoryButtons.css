@@ -1,0 +1,18 @@
+.restaurants-list__category-buttons {
+	margin-bottom: 20px;
+}
+
+.restaurants-list__category-buttons h3 {
+	font-size: 0.8rem;
+	text-align: center;
+}
+
+.restaurants-list__category-buttons__btn {
+	margin: 0 5px;
+}
+
+@media screen and (min-width: 768px) {
+	.restaurants-list__category-buttons h3 {
+		font-size: 1.2rem;
+	}
+}

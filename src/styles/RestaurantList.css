@@ -16,9 +16,6 @@
 	align-items: center;
 	width: 80%;
 }
-.restaurants-list__category-buttons {
-	margin-bottom: 20px;
-}
 
 @media screen and (min-width: 768px) {
 	.restaurants-list {
