@@ -62,7 +62,7 @@ const RestaurantList = () => {
 			) : (
 				<>
 					{state.error ? (
-						<p data-testid="error">state.error</p>
+						<p data-testid="error">{state.error}</p>
 					) : (
 						<div data-testid="success" className="restaurants-container">
 							<CategoryButtons handleClick={handleClick} />
